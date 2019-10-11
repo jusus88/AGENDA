@@ -1,0 +1,22 @@
+form{
+	background: #1dafa1;
+	width: 100%;
+	height: 80px;
+
+}
+button{
+	background: orange;
+	width: 120px;
+	height: 25px;
+	border-radius: 10px;
+}
+section{
+	background: #90bdb1;
+	width: 100%;
+	height: 600px;
+}
+footer{
+	background: green;
+	text-align: center;
+	height: 95px;
+}
